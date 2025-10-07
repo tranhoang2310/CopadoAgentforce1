@@ -3,7 +3,6 @@
     <label>Test Data Model Object</label>
     <mktDataModelAttributes>
         <creationType>Custom</creationType>
-        <dataModelTaxonomy>Salesforce_SFDCReferenceModel_0_93</dataModelTaxonomy>
         <dataSpaceName>default</dataSpaceName>
         <description>Hoang Data Model</description>
         <isEnabled>true</isEnabled>
